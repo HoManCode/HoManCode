@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HoManCode
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Hooman(@HoManCode)
+- 👀 I’m interested in Java,Linux,Mac OS development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Java coding
 - 📫 How to reach me ...
