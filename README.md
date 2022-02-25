@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HoomanCode
+- 👋 Hi, I’m @HoManCode
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Java coding
